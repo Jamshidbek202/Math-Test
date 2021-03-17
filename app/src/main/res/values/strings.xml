@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math-Test</string>
+    <string name="welcomer_to_the_math_game">Welcome to the Math Test</string>
+    <string name="your_name">Your name:</string>
+    <string name="the_number_of_quizzes">The number of Tests:</string>
+    <string name="next">next</string>
+</resources>
